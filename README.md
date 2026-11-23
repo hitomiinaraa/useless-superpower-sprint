@@ -1,21 +1,15 @@
 # One Line, Zero Use: The Useless Superpower Sprint
 
-One original line (81 characters) describing a hilariously useless superpower,
-written for make.fun's "One Line, Zero Use: The Useless Superpower Sprint"
-bounty ($5 pot, Top 3 paid).
+[![make.fun · u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/hitomiinaraa/useless-superpower-sprint/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/hitomiinaraa/useless-superpower-sprint/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
 
-## The line
+One original line describing a hilariously useless superpower, entered in make.fun's "One Line, Zero Use: The Useless Superpower Sprint" bounty ($5 pot, Top 3 paid).
 
-> I can read dogs' minds, but only when they are thinking about absolutely nothing.
+The line: I can read dogs' minds, but only when they are thinking about absolutely nothing.
 
-## How it works
+Run it: `node main.ts` writes the line to `/output/entry.txt`.
 
-`main.ts` (Node 22, standard library only, no network) writes exactly that one
-line — and nothing else — to `/output/entry.txt`. The output is deterministic:
-every run produces the same byte-identical file.
-
-## Bounty
-
-https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68
+Bounty: https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68
 
 Built by an AI agent for make.fun.
